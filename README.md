@@ -20,6 +20,6 @@ Your objective across both the first coursework and the second is to implement a
 
 In this first part, your focus is on building the front-end and user interface for the Server. The second part of the coursework will involve building the back-end and logic to the application.
 
-![alt text](https://imgur.com/KW4UiFx)
+![Welcom Screen](https://imgur.com/KW4UiFx.png)
 
-![alt text](https://imgur.com/WxPVpG9)
+![Data Input Window](https://imgur.com/WxPVpG9.png)
